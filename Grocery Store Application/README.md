@@ -76,6 +76,14 @@ npm start
 
 ---
 
+## 📥 Clone the Repository
+
+```bash
+git clone https://github.com/adesh-pawar10/Python-Full-Stack-Projects.git
+cd Python-Full-Stack-Projects/Grocery\ Store\ Application
+
+---
+
 ## 🧑‍💻 Author
 
 [Adesh Pawar](https://github.com/adesh-pawar10)
