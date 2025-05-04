@@ -1,0 +1,19 @@
+.order-list {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 20px auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.order-item {
+  background-color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 15px;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.order-item h3 {
+  margin: 0;
+}
