@@ -81,7 +81,7 @@ npm start
 ```bash
 git clone https://github.com/adesh-pawar10/Python-Full-Stack-Projects.git
 cd Python-Full-Stack-Projects/Grocery\ Store\ Application
-
+```
 ---
 
 ## 🧑‍💻 Author
